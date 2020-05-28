@@ -3,7 +3,7 @@
 > [![LinkedIn](resources/linkedin_dark.png)](https://linkedin.com/in/chaitanya-tejaswi-129b67108) |
 > [![GitHub](resources/github.png)](https://github.com/CRTejaswi) |
 > [![WordPress](resources/wordpress_dark.png)](https://crtejaswi.wordpress.com) |
-> ![Noida (UP), India](resources/location_dark.png)
+> [![Download PDF](resources/print_dark.png)](https://crtejaswi.github.io/CV/CV.pdf)
 
 Summary
 ---------
