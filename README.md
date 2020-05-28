@@ -1,20 +1,21 @@
-Markdown Résumé Template
----
+# CV
+> Customizable Résumé/CV using MarkDown/Pandoc/wktmltopdf.
+> Demo available [here](https://crtejaswi.github.io/CV)
 
-My Markdown résumé template
+# Usage
 
-## Demo
+- Convert to PDF
+```
+pandoc --metadata title='FirstName LastName' -t html5 --css resume.css -o resume.pdf resume.md
+```
+- Convert to HTML
+```
+pandoc --standalone --metadata title='FirstName LastName' --css resume.css --from markdown --to html -o index.html resume.md
+```
 
-[https://aonemd.github.io/markdown-resume-template/](https://aonemd.github.io/markdown-resume-template/)
+# License(s)
 
-## Installation
-
-- You need to have [`pandoc`](https://pandoc.org/installing.html), `texlive`,
-  and [`wkhtmltopdf`](https://wkhtmltopdf.org/) installed on your system
-- Run `make` to build the PDF file
-- Run `make run` to open the PDF file in your default PDF reader
+This work is forked from [markdown-resume-template](https://github.com/aonemd/markdown-resume-template/tree/gh-pages) by [@aonemd](https://github.com/aonemd) released under [LICENSE](https://github.com/aonemd/markdown-resume-template/blob/master/LICENSE). <br>
+This work is released under MIT license.
 
 
-## LICENSE
-
-See [LICENSE](https://github.com/aonemd/markdown-resume-template/blob/master/LICENSE).
