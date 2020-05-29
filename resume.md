@@ -37,14 +37,15 @@ Publications & Invited Talks
 -----------------
 
 21st April, 2020
-:   [__Creating eBooks from Webpages using Python__](https://crtejaswi.github.io/Talks/01/webscraping.html) <br>
+:   __Creating eBooks from Webpages using Python__ [__[SLIDES]__](https://crtejaswi.github.io/Talks/01/webscraping.html) [__[VIDEO]__](https://drive.google.com/open?id=1KSGi2n2kVAqe0eO2dCa95Z_ULRHpwGaW)<br>
 A talk to get you started with web scraping in Python using minimal external dependencies. We will write a script that scrapes online court judgments and creates Android/Kindle compatible ebooks from them.
+<br>
 
 2018
 :   [__A Novel Approach of Tesseract-OCR Usage for Newspaper Article Images__](http://computerjournals.stmjournals.in/index.php/JoCTA/article/view/220) <br>
 A novel approach for optical character recognition of newspaper article images (captured as smartphone camera images) is presented, with evaluation based on two sets of images; both captured using the same camera, under varying lighting conditions. <br>
 [_Chaitanya Tejaswi, Bhargav Goradiya, Ripal Patel; __A Novel Approach of Tesseract-OCR Usage for Newspaper Article Images__, Journal of Computer Technology & Applications. 2018; 9(3): 24–29p._]
-
+<br>
 
 Projects (Academic)
 -----------------
