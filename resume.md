@@ -3,7 +3,7 @@
 > [![LinkedIn](resources/linkedin_dark.png)](https://linkedin.com/in/chaitanya-tejaswi-129b67108) |
 > [![GitHub](resources/github.png)](https://github.com/CRTejaswi) |
 > [![WordPress](resources/wordpress_dark.png)](https://crtejaswi.wordpress.com) |
-> [![Download PDF](resources/print_dark.png)](https://crtejaswi.github.io/CV/CV.pdf)
+> [![Download PDF](resources/print_dark.png)](CV.pdf)
 
 Summary
 ---------
@@ -16,7 +16,7 @@ Education
 ---------
 
 June 2014 - Jun 2018
-:   [__BVM Engineering College, VV Nagar__](http://bvmengineering.ac.in)
+:   [__BVM Engineering College, VV Nagar__ ](http://bvmengineering.ac.in) [__(GTU)__](https://www.gtu.ac.in/)
 
     - Completed Bachelor of Engineering (B.E.) in Electronics & Communication with a CGPA of 8.35.
 <br>
