@@ -1,17 +1,16 @@
 # CV
-> Customizable Résumé/CV using MarkDown/Pandoc/wktmltopdf.
->
-> Demo available [here](https://crtejaswi.github.io/CV)
+> Customizable Résumé/CV template in MarkDown. <br>
+> Demo available [here](https://crtejaswi.github.io/CV).
 
 ## Usage
 
 - Convert to PDF
 ```
-pandoc --metadata title='FirstName LastName' -t html5 --css resume.css -o resume.pdf resume.md
+pandoc --metadata title='FirstName LastName' -t html5 --css resume.css -o CV.pdf CV.md
 ```
 - Convert to HTML
 ```
-pandoc --standalone --metadata title='FirstName LastName' --css resume.css --from markdown --to html -o index.html resume.md
+pandoc --standalone --metadata title='FirstName LastName' --css resume.css --from markdown --to html -o index.html CV.md
 ```
 
 ## License(s)
