@@ -41,7 +41,7 @@ Publications & Invited Talks
 -----------------
 
 15 June, 2020
-:   __Unboxing GitHub__ [__[SLIDES]__](file:///B:/CRTejaswi/Codes/Talks/02/github.html) [__[VIDEO]__](https://drive.google.com/file/d/17Y7cVfgMcHIUg_c_y1TEpffPyEQ6Td9M/view) <br>
+:   __Unboxing GitHub__ [__[SLIDES]__](https://crtejaswi.github.io/Talks/02/github.html) [__[VIDEO]__](https://drive.google.com/file/d/17Y7cVfgMcHIUg_c_y1TEpffPyEQ6Td9M/view) <br>
 A talk for academics, with focus on basic GitHub features, and how to use them to create effective lecture notes.
 <br>
 
@@ -52,8 +52,8 @@ A talk to get you started with web scraping in Python using minimal external dep
 
 2018
 :   [__A Novel Approach of Tesseract-OCR Usage for Newspaper Article Images__](http://computerjournals.stmjournals.in/index.php/JoCTA/article/view/220) <br>
+(_Chaitanya Tejaswi, Bhargav Goradiya, Ripal Patel;_ __Journal of Computer Technology & Applications. 2018; 9(3): 24–29p.__) <br>
 A novel approach for optical character recognition of newspaper article images (captured as smartphone camera images) is presented, with evaluation based on two sets of images; both captured using the same camera, under varying lighting conditions. <br>
-[_Chaitanya Tejaswi, Bhargav Goradiya, Ripal Patel; __A Novel Approach of Tesseract-OCR Usage for Newspaper Article Images__, Journal of Computer Technology & Applications. 2018; 9(3): 24–29p._]
 <br>
 
 Projects (Academic)
