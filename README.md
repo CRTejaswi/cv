@@ -1,3 +1,6 @@
+    Copyright (c) 2020-
+    Author: Chaitanya Tejaswi (github.com/CRTejaswi)    License: MIT
+
 # CV
 > Customizable Résumé/CV template in MarkDown. <br>
 > Demo available [here](https://crtejaswi.github.io/CV).

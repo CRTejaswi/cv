@@ -40,8 +40,13 @@ June 2012
 Publications & Invited Talks
 -----------------
 
+15 June, 2020
+:   __Unboxing GitHub__ [__[SLIDES]__](file:///B:/CRTejaswi/Codes/Talks/02/github.html) [__[VIDEO]__](https://drive.google.com/file/d/17Y7cVfgMcHIUg_c_y1TEpffPyEQ6Td9M/view) <br>
+A talk for academics, with focus on basic GitHub features, and how to use them to create effective lecture notes.
+<br>
+
 21st April, 2020
-:   __Creating eBooks from Webpages using Python__ [__[SLIDES]__](https://crtejaswi.github.io/Talks/01/webscraping.html) [__[VIDEO]__](https://drive.google.com/open?id=1KSGi2n2kVAqe0eO2dCa95Z_ULRHpwGaW)<br>
+:   __Creating eBooks from Webpages using Python__ [__[SLIDES]__](https://crtejaswi.github.io/Talks/01/webscraping.html) [__[VIDEO]__](https://drive.google.com/file/d/1KSGi2n2kVAqe0eO2dCa95Z_ULRHpwGaW/view) <br>
 A talk to get you started with web scraping in Python using minimal external dependencies. We will write a script that scrapes online court judgments and creates Android/Kindle compatible ebooks from them.
 <br>
 
