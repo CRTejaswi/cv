@@ -37,6 +37,23 @@ June 2012
     - Completed SSC from CBSE Board with a CGPA of 9.8.
 <br>
 
+
+Experience
+---------
+
+June, 2020
+:   __Type Less, Think More [[DEMO]](https://thinktype.herokuapp.com/table) [[INFO]](https://webfest.cern/project/less-typing-more-thinking)__ <br>
+A web utility to lookup Latex code for extensively used Maths equations. ([CERN WebFest, 2020](https://webfest.cern/)) <br>
+
+    - Wrote scripts to scrape & parse Tex equations from two datasets (~400 & ~18,000 entries respectively).
+
+March, 2018
+:   __ISR3 [[DEMO]]() [[INFO]](https://github.com/CRTejaswi/Class-Projects/tree/master/SIH2018)__ <br>
+A web utility to extract text from community assets' images. ([Smart India Hacakthon, 2018](https://innovate.mygov.in/sih2018/)) <br>
+
+    - Led a team of 6; Wrote scripts to extract location from EXIF files, and pre-process & binarize images. Also, created an [original dataset](https://github.com/CRTejaswi/Class-Projects/tree/master/SIH2018/vidyanagar_2018) for testing.
+
+
 Publications & Invited Talks
 -----------------
 
