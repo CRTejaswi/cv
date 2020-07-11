@@ -42,14 +42,14 @@ Experience
 ---------
 
 June, 2020
-:   __Type Less, Think More [[DEMO]](https://thinktype.herokuapp.com/table) [[INFO]](https://webfest.cern/project/less-typing-more-thinking)__ <br>
+:   __Less Typing, More Thinking [[DEMO]](https://thinktype.herokuapp.com/table) [[INFO]](https://webfest.cern/project/less-typing-more-thinking)__ <br>
 A web utility to lookup Latex code for extensively used Maths equations. ([CERN WebFest, 2020](https://webfest.cern/)) <br>
 
     - Wrote scripts to scrape & parse Tex equations from two datasets (~400 & ~18,000 entries respectively).
 
 March, 2018
 :   __ISR3 [[DEMO]]() [[INFO]](https://github.com/CRTejaswi/Class-Projects/tree/master/SIH2018)__ <br>
-A web utility to extract text from community assets' images. ([Smart India Hacakthon, 2018](https://innovate.mygov.in/sih2018/)) <br>
+A web utility to extract text from community assets' images. ([Smart India Hackathon, 2018](https://innovate.mygov.in/sih2018/)) <br>
 
     - Led a team of 6; Wrote scripts to extract location from EXIF files, and pre-process & binarize images. Also, created an [original dataset](https://github.com/CRTejaswi/Class-Projects/tree/master/SIH2018/vidyanagar_2018) for testing.
 
@@ -127,13 +127,19 @@ October, 2015
 
 Projects (Personal)
 -----------------
-.
+
+June, 2020 -
+:   [__API__](https://crtejaswi.github.io/API/) <br>
+    _Personal collection of static APIs._ <br>
+
+    - Automated chores using JSON files.
+<br>
 
 Skills
 ------
 
 Languages (Programming)
-:   Python, C/C++, ASM (AVR, x86), PowerShell, HTML/CSS, JS.
+:   PowerShell, Python, C/C++, ASM (AVR, x86), HTML/CSS/JS.
 
 Languages (Spoken)
 :   English, Hindi, Gujarati.
