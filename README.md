@@ -9,11 +9,11 @@
 
 - Convert to PDF
 ```
-pandoc --metadata title='FirstName LastName' -t html5 --css resume.css -o CV.pdf CV.md
+pandoc --metadata title='FirstName LastName' -t html5 --css resume.css -o cv.pdf cv.md
 ```
 - Convert to HTML
 ```
-pandoc --standalone --metadata title='FirstName LastName' --css resume.css --from markdown --to html -o index.html CV.md
+pandoc --standalone --metadata title='FirstName LastName' --css resume.css --from markdown --to html -o index.html cv.md
 ```
 
 ## License(s)
