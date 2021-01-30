@@ -41,8 +41,14 @@ June 2012
 Experience
 ---------
 
+October, 2020
+:   __Sat-Trac [[INFO]](http://theport.ch/home/the-port-2020/#team-pier24) [[DEMO]](https://www.youtube.com/watch?v=nA6qdSLcoeY&t=4154s) [[CODE]](https://github.com/THEPortatCERN/Hackathon2020-Pier24)__ <br>
+A pyQGIS utility to classify buildings using satellite images & curated building-footprints. ([CERN Port, 2020](http://theport.ch/home/the-port-2020/)) <br>
+
+    - Wrote scripts to extract data from building-footprints (.geojson).
+
 June, 2020
-:   __Less Typing, More Thinking [[INFO]](https://webfest.cern/project/less-typing-more-thinking) [[DEMO]](https://thinktype.herokuapp.com/table) [[CODE]](https://gitlab.com/kidiki1/ltmt/-/tree/crtejaswi)__ <br>
+:   __Less Typing, More Thinking [[INFO]](https://webfest.cern/node/281) [[DEMO]](https://thinktype.herokuapp.com/table) [[CODE]](https://gitlab.com/kidiki1/ltmt/-/tree/crtejaswi)__ <br>
 A web utility to lookup Latex code for extensively used Maths equations. ([CERN WebFest, 2020](https://webfest.cern/)) <br>
 
     - Wrote scripts to scrape & parse Tex equations from two datasets (~400 & ~18,000 entries respectively).
