@@ -1,12 +1,13 @@
-> [![Email](resources/gmail_dark.png)](mailto:crtejaswi13@gmail.com) |
-> [![Phone](resources/phone_dark.png)](tel:+919687420050) |
-> [![LinkedIn](resources/linkedin_dark.png)](https://linkedin.com/in/chaitanya-tejaswi-129b67108) |
-> [![GitHub](resources/github.png)](https://github.com/CRTejaswi) |
-> [![WordPress](resources/wordpress_dark.png)](https://crtejaswi.wordpress.com)
+> [![Email](media/gmail_dark.png)](mailto:crtejaswi13@gmail.com) |
+> [![Phone](media/phone_dark.png)](tel:+919687420050) |
+> [![LinkedIn](media/linkedin_dark.png)](https://linkedin.com/in/chaitanya-tejaswi-129b67108) |
+> [![GitHub](media/github.png)](https://github.com/CRTejaswi) |
+> [![Blog](media/blogger.png)](https://crtejaswi.github.io/blog) |
+> [![WordPress](media/wordpress_dark.png)](https://crtejaswi.wordpress.com)
 
 <p align="right">
-    <a href="cv.pdf"><img src="resources/pdf.png" alt="Download PDF" title="Download PDF"></a>
-    <a href="cv.json"><img src="resources/json.png" alt="Download PDF" title="Download JSON"></a>
+    <a href="cv.pdf"><img src="media/pdf.png" alt="Download PDF" title="Download PDF"></a>
+    <a href="cv.json"><img src="media/json.png" alt="Download PDF" title="Download JSON"></a>
 </p>
 
 Summary
