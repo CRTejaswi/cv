@@ -1,9 +1,9 @@
 body {
-  font-family: "Calibri";
-  width: 1080px;
-  margin: 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 950px;
+  margin: auto;
   background: #FFFFFF;
-  padding: 2px 2px 2px 2px;
+  padding: 5px 5px 5px 5px;
 }
 
 h1 {
@@ -16,7 +16,6 @@ h1 {
 h2 {
   color: #1b1918;
   border-bottom: 2px solid #1b1918;
-  text-align: left;
 }
 
 dt {
@@ -24,18 +23,20 @@ dt {
   clear: left;
   width: 25%;
   font-weight: bold;
-  font-size: 24px;
 }
 
 dd {
   margin-left: 25%;
-  font-size: 20px;
 }
 
 p {
   margin-top: 0;
-  margin-bottom: 5px;
-  font-size: 20px;
+  margin-bottom: 7px;
+}
+
+blockquote {
+  text-align: center;
+  font-size: 16px;
 }
 
 a {

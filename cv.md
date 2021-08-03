@@ -1,5 +1,5 @@
-> [![Email](media/gmail_dark.png)](mailto:crtejaswi13@gmail.com) |
-> [![Phone](media/phone_dark.png)](tel:+919687420050) |
+> [![Email](media/mail.png)](mailto:crtejaswi13@gmail.com) |
+> [![Phone](media/phone.png)](tel:+919687420050) |
 > [![LinkedIn](media/linkedin_dark.png)](https://linkedin.com/in/chaitanya-tejaswi-129b67108) |
 > [![GitHub](media/github.png)](https://github.com/CRTejaswi) |
 > [![Blog](media/blogger.png)](https://crtejaswi.github.io/blog) |
@@ -10,6 +10,13 @@
     <a href="cv.json"><img src="media/json.png" alt="Download PDF" title="Download JSON"></a>
 </p>
 
+<!-- Contact -->
+<!-- --------- -->
+<!-- - Phone: +91-919687420050 -->
+<!-- - Email: crtejaswi13@gmail.com -->
+<!-- - Date Of Birth: 24/02/1997 -->
+
+
 Summary
 ---------
 
@@ -19,6 +26,12 @@ I'm open to all software development roles. <br>
 
 Education
 ---------
+
+July 2021 - 2023 (expected)
+:   [__IIT Guwahati__](https://www.iitg.ac.in/)
+
+    Pursuing Master of Technology (MTech) in VLSI Design (Electrical Engineering).
+<br>
 
 June 2014 - Jun 2018
 :   [__Birla Vishvakarma Mahavidyalaya, Vallabh Vidyanagar__ ](http://bvmengineering.ac.in) [__(GTU)__](https://www.gtu.ac.in/)
@@ -153,6 +166,9 @@ Languages (Spoken)
 
 Software Stack
 :   Python (SciPy stack, OpenCV, Flask, Selenium).
+
+Others
+:   Version-Control (Git), Media (Pandoc, ImageMagick, FFMpeg), ... 
 
 References
 -----------------
